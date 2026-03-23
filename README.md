@@ -11,8 +11,8 @@ Intrinsic valuation and relative valuation work built on integrated financial mo
 
 | # | Project | Type | Company / Sector | Status |
 | --- | --- | --- | --- | --- |
-| 1 | [HUL — DCF Valuation](projects/hul-dcf-valuation/) | DCF + Three-Statement Model | Hindustan Unilever / FMCG | Complete |
-| 2 | [HAL — DCF Valuation](projects/hal-dcf-valuation/) | DCF + Three-Statement Model | Hindustan Aeronautics / Aerospace & Defence | In Progress |
+| 1 | [HUL — DCF Valuation](projects/Hul-Valuation/) | DCF + Three-Statement Model | Hindustan Unilever / FMCG | Complete |
+| 2 | [HAL — DCF Valuation](projects/Hal-Equity-Research/) | DCF + Three-Statement Model | Hindustan Aeronautics / Aerospace & Defence | In Progress |
 | 3 | [Adani-Ambuja Cements M&A](projects/adani-ambuja-m&a/) | Accretion/Dilution | Adani-Ambuja Cements | In Progress |
 | 4 | [One Pagers](One-Pagers/) | Company Primers | ZOMATO, CDSL, MARICO, BHARAT ELECTRONICS, HINDUSTAN UNILEVER | Complete |
 | 5 | [Index Valuation](Index-Valuation/) | DCF + Valuation Report | S&P 500 / Index | Complete |
