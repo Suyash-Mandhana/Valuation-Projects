@@ -27,5 +27,5 @@ Intrinsic valuation and relative valuation work built on integrated financial mo
 • DuPont, Altmaz Z Score, Football Field Analysis
 
 ---
-- **Connect with me:** [www.linkedin.com/in/suyashmandhana]
+- **LinkedIn:** [www.linkedin.com/in/suyashmandhana]
 - **Email:** suyashymandhana@gmail.com
